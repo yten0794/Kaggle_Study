@@ -1,1 +1,1 @@
-# yte0794.github.io
+# Kaggle, Dacon 필사 스터디
