@@ -4,3 +4,4 @@
 - [Kaggle 필사-(2) Lowess and ARIMA](https://github.com/yten0794/yte0794.github.io/blob/main/code/Kaggle%20%ED%95%84%EC%82%AC(2)%20Lowess%20and%20ARIMA.ipynb)
 - [Kaggle 필사-(3) Support Vector Machine](https://github.com/yten0794/yte0794.github.io/blob/main/code/Kaggle%20%ED%95%84%EC%82%AC(3)%20SVM.ipynb)
 - [Kaggle 필사-(4) Ensemble-XGBoost](https://github.com/yten0794/yte0794.github.io/blob/main/code/Kaggle%20%ED%95%84%EC%82%AC(4)%20Ensemble-XGBoost.ipynb)
+- [Kaggle 필사-(5) Ensemble-VotingRegressor](https://github.com/yten0794/yte0794.github.io/blob/main/code/Kaggle%20%ED%95%84%EC%82%AC(5)%20Ensemble-VotingRegressor(catboost%2C%20xgboost).ipynb)
